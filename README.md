@@ -2,9 +2,9 @@
 
 ## ¿QUÉ ES findsploit?
 
-findsplout es una herramienta hacking para reaizzar pentesting, es decir hacer pruebas de seguridad de manera local u online desde diferentes databases.
+findsplout es una herramienta hacking para realizar pentesting, es decir hacer pruebas de seguridad de manera local u online desde diferentes databases.
 
-##INSTALACION DE findsploit
+## INSTALACION DE findsploit
 
 $ apt update && apt upgrade -y
 
